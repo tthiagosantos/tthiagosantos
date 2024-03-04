@@ -15,11 +15,11 @@ Sou um engenheiro de software apaixonado e dedicado, com uma sólida carreira no
 
 ## Competências Digitais
 
-- Ansible / Python / AWS / Java / MySQL / Git / Docker / Terraform / Kubernetes / Bitbucket / Git Action / Github / CI/CD / Gitlab / Grafana
-- Linguagens de Programação: Laravel / GO / NestJS Framework / NodeJS + NPM / Angular / VueJS / Typescript (Nível Intermédio/Avançado)
-- Observabilidade: Prometheus / Elasticsearch / Kibana / Elastic Stack
+- Ansible / AWS / MySQL / Git / Docker / Terraform / Kubernetes / Bitbucket / Git Action / Github / CI/CD / Gitlab
+- Linguagens de Programação: GO / NestJS Framework / NodeJS / Typescript
+- Observabilidade: Elastic Stack
 - Banco de Dados: MongoDB / SQL (PostgreSQL, MySQL, SQL Server)
-- Mensagerias: AWS SNS/SQS / Kafka
+- Mensagerias: AWS SNS/SQS / Apache Kafka
 - Infraestrutura: AWS (EC2, S3, SQS, SNS, RDS, CodePipeline)
 
 ## Contato
