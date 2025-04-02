@@ -9,7 +9,7 @@ Sou um engenheiro de software apaixonado e dedicado, com uma sólida carreira no
 ## Educação e Formação
 
 - **MBA Arquitetura fullcycle** - Full Cycle | [ 06/2023 – Atual | Brasil ] - [Website](https://mba.fullcycle.com.br/mba/)
-- **MBA Go Expert** - Full Cycle | [ 10/06/2023 – Atual | Brasil ] - [Website](https://goexpert.fullcycle.com.br/pos-goexpert/)
+- **MBA Go Expert** - Full Cycle | [ 10/06/2023 – 08/08/2024 | Brasil ] - [Website](https://goexpert.fullcycle.com.br/pos-goexpert/)
 - **Engenharia de Software** - UNICESUMAR | [ 01/2018 – 06/2023 | Brasil ]
 - **Técnico em Desenvolvimento de Software** - Fucapi | [Manaus, Brasil]
 
